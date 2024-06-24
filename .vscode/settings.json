@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+    },
+
+    /* Pylint */
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "mos.port": "",
+}
